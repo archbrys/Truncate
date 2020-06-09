@@ -1,6 +1,6 @@
 # Truncate react functional component
 
-A functional component for your project which truncate a string that you provide.
+A functional component for your project which truncate a string that you provide..
 
 > 
 ## Usage
